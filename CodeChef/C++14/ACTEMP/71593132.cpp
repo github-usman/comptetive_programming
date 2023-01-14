@@ -3,7 +3,7 @@ using namespace std;
 
 #define ll long long int
 
-////////////***First Approach***////////////
+////////////***First Approach***///////////
 void driver(){
 
     ll a,b,c;
